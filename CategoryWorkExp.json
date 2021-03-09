@@ -1,0 +1,84 @@
+{ 
+    "_id" : ObjectId("5fdac257dbadd81bb4c1b6d0"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Chưa có kinh nghiệm", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:28:39.723+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac25ddbadd81bb4c1b714"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "1 năm", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:28:45.691+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac27ddbadd81bb4c1b759"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "2 năm", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:29:17.289+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac281dbadd81bb4c1b79f"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "3 năm", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:29:21.642+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac28cdbadd81bb4c1b7e6"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "4 năm", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:29:32.342+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac292dbadd81bb4c1b82e"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "5 năm", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:29:38.392+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac298dbadd81bb4c1b877"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Trên 5 năm", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:29:44.409+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}

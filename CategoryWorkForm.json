@@ -1,0 +1,60 @@
+{ 
+    "_id" : ObjectId("5fdac1fbdbadd81bb4c1b4e9"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Việc làm quản lý - giám sát", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:27:07.423+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac206dbadd81bb4c1b52d"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Việc làm toàn thời gian", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:27:18.221+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac20edbadd81bb4c1b572"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Việc làm bán thời gian", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:27:26.444+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac21bdbadd81bb4c1b5b8"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Việc làm chuyên môn", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:27:39.050+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac238dbadd81bb4c1b645"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Việc làm lao động phổ thông", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:28:08.062+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}

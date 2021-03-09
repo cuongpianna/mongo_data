@@ -1,0 +1,60 @@
+{ 
+    "_id" : ObjectId("5fdac2dddbadd81bb4c1ba5d"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Trung học phổ thông", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:30:53.210+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac2e9dbadd81bb4c1baa1"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Trung cấp dạy nghề", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:31:05.171+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac2eedbadd81bb4c1bae6"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Cao đẳng", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:31:10.071+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac2f7dbadd81bb4c1bb2c"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Đại học", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:31:19.357+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdac2fedbadd81bb4c1bb73"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Cao học", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T02:31:26.058+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}

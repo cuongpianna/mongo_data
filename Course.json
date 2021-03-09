@@ -1,0 +1,631 @@
+{ 
+    "_id" : ObjectId("5f99201d70d3002b908e029f"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "Khóa học làm giàu", 
+    "Avatar" : "https://oriwave.net/agency/Images/Recruitment/IMG_4064_20201027134917.jpg", 
+    "Description" : "Khóa học làm giàu", 
+    "Content" : "<p>Kh&oacute;a học l&agrave;m gi&agrave;uggg</p>", 
+    "IsActive" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-28T07:39:09.212+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true, 
+    "Categories" : [
+
+    ], 
+    "CategoryIds" : [
+        "5f97c775c4c66d20e84d0213", 
+        "5f97dd88920f2f4624d70aa7"
+    ]
+}
+{ 
+    "_id" : ObjectId("5f99378cbbea622e6828eb92"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "Kĩ năng mềm", 
+    "Avatar" : "https://oriwave.net/agency/Images/Recruitment/Banner-2-(1)_20201021095306.jpg", 
+    "Description" : "Kĩ năng mềm", 
+    "Content" : "<p>Kĩ năng mềm</p>", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-28T09:19:08.520+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true, 
+    "Categories" : [
+
+    ], 
+    "CategoryIds" : [
+        "5f97c717c4c66d20e84d01bf", 
+        "5f97c72bc4c66d20e84d01c5"
+    ]
+}
+{ 
+    "_id" : ObjectId("5f993b360adeed325400d427"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "Khóa học làm giàu", 
+    "Avatar" : "https://oriwave.net/agency/Images/Recruitment/IMG_4064_20201027134917.jpg", 
+    "Description" : "Khóa học làm giàu", 
+    "Content" : "<p>Kh&oacute;a học l&agrave;m gi&agrave;uggg</p>", 
+    "IsActive" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-28T07:39:09.212+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "Categories" : [
+        {
+            "_id" : ObjectId("5f97c775c4c66d20e84d0213"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Hội thảo", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T07:08:37.939+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : null, 
+            "Parent" : null, 
+            "Children" : [
+
+            ]
+        }, 
+        {
+            "_id" : ObjectId("5f97dd88920f2f4624d70aa7"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "gggggg", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T08:42:48.850+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "", 
+            "Parent" : null, 
+            "Children" : [
+
+            ]
+        }
+    ], 
+    "CategoryIds" : [
+        "5f97c775c4c66d20e84d0213", 
+        "5f97dd88920f2f4624d70aa7"
+    ]
+}
+{ 
+    "_id" : ObjectId("5f9941ab0adeed325400d776"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "Kĩ năng mềm", 
+    "Avatar" : "https://oriwave.net/agency/Images/Recruitment/Banner-2-(1)_20201021095306.jpg", 
+    "Description" : "Kĩ năng mềm", 
+    "Content" : "<p>Kĩ năng mềm</p>", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-28T09:19:08.520+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "Categories" : [
+        {
+            "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Cơ hội nghề nghiệp", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "5f97c69a5116de029c938fba", 
+            "Parent" : {
+                "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Hành trang nghề nghiệp", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : null, 
+                "Parent" : null, 
+                "Children" : [
+
+                ]
+            }, 
+            "Children" : [
+
+            ]
+        }, 
+        {
+            "_id" : ObjectId("5f97c72bc4c66d20e84d01c5"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Kỹ năng văn phòng", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T07:07:23.214+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "5f97c69a5116de029c938fba", 
+            "Parent" : {
+                "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Hành trang nghề nghiệp", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : null, 
+                "Parent" : null, 
+                "Children" : [
+                    {
+                        "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "CreatedUser" : null, 
+                        "Name" : "Cơ hội nghề nghiệp", 
+                        "Thumbnail" : "", 
+                        "Description" : "", 
+                        "IsActive" : true, 
+                        "IsPrimary" : false, 
+                        "CreatedBy" : null, 
+                        "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                        "ModifiedBy" : null, 
+                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "IsDeleted" : false, 
+                        "ParentId" : "5f97c69a5116de029c938fba", 
+                        "Parent" : {
+                            "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "CreatedUser" : null, 
+                            "Name" : "Hành trang nghề nghiệp", 
+                            "Thumbnail" : "", 
+                            "Description" : "", 
+                            "IsActive" : true, 
+                            "IsPrimary" : false, 
+                            "CreatedBy" : null, 
+                            "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                            "ModifiedBy" : null, 
+                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "IsDeleted" : false, 
+                            "ParentId" : null, 
+                            "Parent" : null, 
+                            "Children" : [
+
+                            ]
+                        }, 
+                        "Children" : [
+
+                        ]
+                    }
+                ]
+            }, 
+            "Children" : [
+
+            ]
+        }
+    ], 
+    "CategoryIds" : [
+        "5f97c717c4c66d20e84d01bf", 
+        "5f97c72bc4c66d20e84d01c5", 
+        "5f97c741c4c66d20e84d01de", 
+        "5f97c775c4c66d20e84d0213"
+    ]
+}
+{ 
+    "_id" : ObjectId("5f9a26b5553ce62c70b298a9"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "test", 
+    "Avatar" : "", 
+    "Description" : "sadas", 
+    "Content" : "<p>sdsad</p>", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-29T02:19:33.917+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true, 
+    "Categories" : [
+
+    ], 
+    "CategoryIds" : [
+        "5f97dd88920f2f4624d70aa7"
+    ]
+}
+{ 
+    "_id" : ObjectId("5f9a26cd553ce62c70b29937"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "asda", 
+    "Avatar" : "", 
+    "Description" : "sada", 
+    "Content" : "<p>sdada</p>", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-29T02:19:57.978+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true, 
+    "Categories" : [
+
+    ], 
+    "CategoryIds" : [
+        "5f97dd88920f2f4624d70aa7"
+    ]
+}
+{ 
+    "_id" : ObjectId("5f9a2b818127392140dd3eec"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "asdasd", 
+    "Avatar" : "", 
+    "Description" : "asdsa", 
+    "Content" : "<p>sdasd</p>", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-29T02:40:01.751+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true, 
+    "Categories" : [
+
+    ], 
+    "CategoryIds" : [
+        "5f97c717c4c66d20e84d01bf", 
+        "5f97c72bc4c66d20e84d01c5", 
+        "5f97c741c4c66d20e84d01de", 
+        "5f97d3f6a5959720d44a4c15", 
+        "5f97c69a5116de029c938fba"
+    ]
+}
+{ 
+    "_id" : ObjectId("5f9a2bb68127392140dd3fa3"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "sdasd", 
+    "Avatar" : "", 
+    "Description" : "sda", 
+    "Content" : "<p>ad</p>", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-29T02:40:54.075+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true, 
+    "Categories" : [
+
+    ], 
+    "CategoryIds" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5fa22affaea3833354bea14b"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "Khóa học làm giàu", 
+    "Avatar" : "https://oriwave.net/agency/Images/Recruitment/IMG_4064_20201027134917.jpg", 
+    "Description" : "Khóa học làm giàu", 
+    "Content" : "<p>Kh&oacute;a học l&agrave;m gi&agrave;uggg</p>", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-28T07:39:09.212+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "Categories" : [
+        {
+            "_id" : ObjectId("5f97c775c4c66d20e84d0213"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Hội thảo", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T07:08:37.939+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : null, 
+            "Parent" : null, 
+            "Children" : [
+
+            ]
+        }, 
+        {
+            "_id" : ObjectId("5f97dd88920f2f4624d70aa7"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "gggggg", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T08:42:48.850+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "", 
+            "Parent" : null, 
+            "Children" : [
+
+            ]
+        }
+    ], 
+    "CategoryIds" : [
+        "5f97c775c4c66d20e84d0213", 
+        "5f97dd88920f2f4624d70aa7"
+    ]
+}
+{ 
+    "_id" : ObjectId("5fa35d33b5e7ee2fd8a0dea3"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "Khóa học làm giàu", 
+    "Avatar" : "https://oriwave.net/agency/Images/Recruitment/IMG_4064_20201027134917.jpg", 
+    "Description" : "Khóa học làm giàu", 
+    "Content" : "<p>Kh&oacute;a học l&agrave;m gi&agrave;uggg</p>", 
+    "IsActive" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-28T07:39:09.212+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "Categories" : [
+        {
+            "_id" : ObjectId("5f97c775c4c66d20e84d0213"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Hội thảo", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T07:08:37.939+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : null, 
+            "Parent" : null, 
+            "Children" : [
+
+            ]
+        }, 
+        {
+            "_id" : ObjectId("5f97dd88920f2f4624d70aa7"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "gggggg", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T08:42:48.850+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "", 
+            "Parent" : null, 
+            "Children" : [
+
+            ]
+        }
+    ], 
+    "CategoryIds" : [
+        "5f97c775c4c66d20e84d0213", 
+        "5f97dd88920f2f4624d70aa7"
+    ]
+}
+{ 
+    "_id" : ObjectId("5fa3c7a5cbc1b81dc426d92c"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "Khóa học làm giàu", 
+    "Avatar" : "https://oriwave.net/agency/Images/Recruitment/IMG_4064_20201027134917.jpg", 
+    "Description" : "Khóa học làm giàu", 
+    "Content" : "<p>Kh&oacute;a học l&agrave;m gi&agrave;uggg</p>", 
+    "IsActive" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-28T07:39:09.212+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "Categories" : [
+        {
+            "_id" : ObjectId("5f97c775c4c66d20e84d0213"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Hội thảo", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T07:08:37.939+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : null, 
+            "Parent" : null, 
+            "Children" : [
+
+            ]
+        }, 
+        {
+            "_id" : ObjectId("5f97dd88920f2f4624d70aa7"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "gggggg", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T08:42:48.850+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "", 
+            "Parent" : null, 
+            "Children" : [
+
+            ]
+        }
+    ], 
+    "CategoryIds" : [
+        "5f97c775c4c66d20e84d0213", 
+        "5f97dd88920f2f4624d70aa7"
+    ]
+}
+{ 
+    "_id" : ObjectId("5fa3c7bccbc1b81dc426da7b"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "Khóa học làm giàu", 
+    "Avatar" : "https://oriwave.net/agency/Images/Recruitment/IMG_4064_20201027134917.jpg", 
+    "Description" : "Khóa học làm giàu", 
+    "Content" : "<p>Kh&oacute;a học l&agrave;m gi&agrave;uggg</p>", 
+    "IsActive" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-28T07:39:09.212+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "Categories" : [
+        {
+            "_id" : ObjectId("5f97c775c4c66d20e84d0213"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Hội thảo", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T07:08:37.939+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : null, 
+            "Parent" : null, 
+            "Children" : [
+
+            ]
+        }, 
+        {
+            "_id" : ObjectId("5f97dd88920f2f4624d70aa7"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "gggggg", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T08:42:48.850+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "", 
+            "Parent" : null, 
+            "Children" : [
+
+            ]
+        }
+    ], 
+    "CategoryIds" : [
+        "5f97c775c4c66d20e84d0213", 
+        "5f97dd88920f2f4624d70aa7"
+    ]
+}
+{ 
+    "_id" : ObjectId("5fad0d5e0609ca2284dfc8b0"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "học", 
+    "Avatar" : "https://oriwave.net/agency/Images/Recruitment/IMG_4064_20201027134917.jpg", 
+    "Description" : "Khóa học", 
+    "Content" : "<p>a</p>", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-11-12T10:24:30.439+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true, 
+    "Categories" : [
+
+    ], 
+    "CategoryIds" : [
+        "5f97c775c4c66d20e84d0213"
+    ]
+}
+{ 
+    "_id" : ObjectId("5fc5c09f7bcd25199c9df230"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Title" : "Test", 
+    "Avatar" : "", 
+    "Description" : "<p>1</p>", 
+    "Content" : "<p>1</p>", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "CourseType" : NumberInt(2), 
+    "SeminorType" : NumberInt(1), 
+    "IsComment" : true, 
+    "Fare" : "10", 
+    "AddressSeminor" : "1", 
+    "TimeSeminor" : [
+        "2020-12-28T17:00:00.000Z", 
+        "2021-01-11T17:00:00.000Z"
+    ], 
+    "Speakers" : [
+        "5fc5c0817bcd25199c9df1f1"
+    ], 
+    "Stream" : null, 
+    "Created" : ISODate("2020-12-01T04:03:43.148+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "Categories" : [
+
+    ], 
+    "CategoryIds" : [
+        "5f97c775c4c66d20e84d0213"
+    ]
+}

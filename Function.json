@@ -1,0 +1,47 @@
+{ 
+    "_id" : ObjectId("5e8141df875b31484048c756"), 
+    "CreatedDateTime" : ISODate("2020-03-29T15:46:26.992+0000"), 
+    "Name" : "View", 
+    "Description" : "Xem danh sách", 
+    "Created" : ISODate("2020-03-29T15:46:26.992+0000"), 
+    "Modified" : ISODate("2020-03-29T15:46:26.992+0000"), 
+    "IsDeleted" : false, 
+    "IsActive" : true, 
+    "IsChecked" : false
+}
+{ 
+    "_id" : ObjectId("5e8141ef875b31484048c758"), 
+    "CreatedDateTime" : ISODate("2020-03-29T15:46:26.992+0000"), 
+    "Name" : "Edit", 
+    "Description" : "Quyền Sửa", 
+    "Created" : ISODate("2020-03-29T15:46:26.992+0000"), 
+    "Modified" : ISODate("2020-03-29T15:46:26.992+0000"), 
+    "IsDeleted" : false, 
+    "IsActive" : true, 
+    "IsChecked" : false
+}
+{ 
+    "_id" : ObjectId("5e814224875b31484048c75a"), 
+    "CreatedDateTime" : ISODate("2020-03-29T15:46:26.992+0000"), 
+    "Name" : "Create", 
+    "Description" : "Quyền tạo mới", 
+    "Created" : ISODate("2020-03-29T15:46:26.992+0000"), 
+    "Modified" : ISODate("2020-03-29T15:46:26.992+0000"), 
+    "IsDeleted" : false, 
+    "IsActive" : true, 
+    "IsChecked" : false
+}
+{ 
+    "_id" : ObjectId("5fa2610a6feeea461405ba81"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Deleted", 
+    "Description" : "Quyền xóa", 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-11-04T08:06:34.909+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "IsActive" : true, 
+    "IsChecked" : false
+}

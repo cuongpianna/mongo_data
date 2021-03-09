@@ -1,0 +1,48 @@
+{ 
+    "_id" : ObjectId("5fdb111cfed1292c20ff6d54"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Trên 20 người", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T08:04:44.843+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdb1123fed1292c20ff6d96"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Trên 50 người", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T08:04:51.129+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdb1129fed1292c20ff6dd9"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Trên 100 người", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T08:04:57.384+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5fdb1132fed1292c20ff6e1d"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Trên 500 người", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-17T08:05:06.352+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}

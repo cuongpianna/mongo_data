@@ -1,0 +1,88 @@
+{ 
+    "_id" : ObjectId("5ff53f659628792c58caf2e4"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Định hướng công việc", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "Slug" : "202101061141096672-dinh-huong-cong-viec.html", 
+    "TypeNews" : NumberInt(1), 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "UserId" : "5e80c2d27df5623b4827da69", 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-06T04:41:09.580+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : null, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5ff53f7b9628792c58caf3a8"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Kỹ năng văn phòng", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "Slug" : "202101061141311904-ky-nang-van-phong.html", 
+    "TypeNews" : NumberInt(1), 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "UserId" : "5e80c2d27df5623b4827da69", 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-06T04:41:31.123+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : null, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5ff53f859628792c58caf46e"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Phát triển bản thân", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "Slug" : "202101061141410831-phat-trien-ban-than.html", 
+    "TypeNews" : NumberInt(1), 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "UserId" : "5e80c2d27df5623b4827da69", 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-06T04:41:41.021+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : null, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5ff670a1cd73c832b4f534ef"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Sự kiện", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "Slug" : "202101070923296703-su-kien.html", 
+    "TypeNews" : NumberInt(3), 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "UserId" : "5e80c2d27df5623b4827da69", 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-07T02:23:29.607+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : null, 
+    "Children" : [
+
+    ]
+}

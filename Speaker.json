@@ -1,0 +1,14 @@
+{ 
+    "_id" : ObjectId("5fc5c0817bcd25199c9df1f1"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Avatar" : "Rectangle 17_20201118104634.png", 
+    "Name" : "Cuong", 
+    "Description" : "Cuong", 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-01T04:03:13.947+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}

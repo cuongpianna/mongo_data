@@ -1,0 +1,162 @@
+{ 
+    "_id" : ObjectId("5fec27ba22cf412504e76f1e"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "UserId" : "5fd09904cd08706cb08676e3", 
+    "objectId" : "5fb4876d84f18b1a600813cb", 
+    "TypeCollocation" : "Job", 
+    "categoryId" : [
+        "5fa89f1d0bb5683a5877ef83"
+    ], 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-12-30T07:09:46.647+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5ff66c22518834379cb7f465"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "UserId" : "5fd09904cd08706cb08676e3", 
+    "objectId" : "5ff56a0e224cad3fb828f7b4", 
+    "TypeCollocation" : "News", 
+    "categoryId" : [
+
+    ], 
+    "Type" : NumberInt(1), 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-07T02:04:18.562+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5ff66c26518834379cb7f469"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "UserId" : "5fd09904cd08706cb08676e3", 
+    "objectId" : "5ff56a09224cad3fb828f70a", 
+    "TypeCollocation" : "News", 
+    "categoryId" : [
+
+    ], 
+    "Type" : NumberInt(1), 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-07T02:04:22.983+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5ff66c29518834379cb7f46e"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "UserId" : "5fd09904cd08706cb08676e3", 
+    "objectId" : "5ff53fd19628792c58cafc13", 
+    "TypeCollocation" : "News", 
+    "categoryId" : [
+
+    ], 
+    "Type" : NumberInt(1), 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-07T02:04:25.616+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5ff66c2c518834379cb7f474"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "UserId" : "5fd09904cd08706cb08676e3", 
+    "objectId" : "5ff53fcd9628792c58cafb69", 
+    "TypeCollocation" : "News", 
+    "categoryId" : [
+
+    ], 
+    "Type" : NumberInt(1), 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-07T02:04:28.176+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5ff66c3c518834379cb7f4af"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "UserId" : "5fd09904cd08706cb08676e3", 
+    "objectId" : "5ff53fc99628792c58cafabf", 
+    "TypeCollocation" : "News", 
+    "categoryId" : [
+
+    ], 
+    "Type" : NumberInt(1), 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-07T02:04:44.208+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5ff66c40518834379cb7f4b7"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "UserId" : "5fd09904cd08706cb08676e3", 
+    "objectId" : "5ff53fc59628792c58cafa19", 
+    "TypeCollocation" : "News", 
+    "categoryId" : [
+
+    ], 
+    "Type" : NumberInt(1), 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-07T02:04:48.164+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5ff66c7a518834379cb7f55f"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "UserId" : "5fd09904cd08706cb08676e3", 
+    "objectId" : "5ff53fbc9628792c58caf83f", 
+    "TypeCollocation" : "News", 
+    "categoryId" : [
+
+    ], 
+    "Type" : NumberInt(1), 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-07T02:05:46.240+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5ff6e4dd8f86c32004c7297d"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "UserId" : "5fd09904cd08706cb08676e3", 
+    "objectId" : "5fababc2fcc32c11ac56f074", 
+    "TypeCollocation" : "Job", 
+    "categoryId" : [
+        "5fa60fe224e67f65c80390d8", 
+        "5fb48b8884f18b1a60081afc"
+    ], 
+    "Type" : NumberInt(0), 
+    "IsActive" : true, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2021-01-07T10:39:25.445+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}

@@ -1,0 +1,1448 @@
+{ 
+    "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Hành trang nghề nghiệp", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : null, 
+    "Parent" : null, 
+    "Children" : [
+        {
+            "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Cơ hội nghề nghiệp", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "5f97c69a5116de029c938fba", 
+            "Parent" : {
+                "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Hành trang nghề nghiệp", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : null, 
+                "Parent" : null, 
+                "Children" : [
+
+                ]
+            }, 
+            "Children" : [
+
+            ]
+        }, 
+        {
+            "_id" : ObjectId("5f97c72bc4c66d20e84d01c5"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Kỹ năng văn phòng", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T07:07:23.214+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "5f97c69a5116de029c938fba", 
+            "Parent" : {
+                "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Hành trang nghề nghiệp", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : null, 
+                "Parent" : null, 
+                "Children" : [
+                    {
+                        "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "CreatedUser" : null, 
+                        "Name" : "Cơ hội nghề nghiệp", 
+                        "Thumbnail" : "", 
+                        "Description" : "", 
+                        "IsActive" : true, 
+                        "IsPrimary" : false, 
+                        "CreatedBy" : null, 
+                        "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                        "ModifiedBy" : null, 
+                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "IsDeleted" : false, 
+                        "ParentId" : "5f97c69a5116de029c938fba", 
+                        "Parent" : {
+                            "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "CreatedUser" : null, 
+                            "Name" : "Hành trang nghề nghiệp", 
+                            "Thumbnail" : "", 
+                            "Description" : "", 
+                            "IsActive" : true, 
+                            "IsPrimary" : false, 
+                            "CreatedBy" : null, 
+                            "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                            "ModifiedBy" : null, 
+                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "IsDeleted" : false, 
+                            "ParentId" : null, 
+                            "Parent" : null, 
+                            "Children" : [
+
+                            ]
+                        }, 
+                        "Children" : [
+
+                        ]
+                    }
+                ]
+            }, 
+            "Children" : [
+
+            ]
+        }, 
+        {
+            "_id" : ObjectId("5f97c741c4c66d20e84d01de"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Phát triển bản thân", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T07:07:45.264+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "5f97c69a5116de029c938fba", 
+            "Parent" : {
+                "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Hành trang nghề nghiệp", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : null, 
+                "Parent" : null, 
+                "Children" : [
+                    {
+                        "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "CreatedUser" : null, 
+                        "Name" : "Cơ hội nghề nghiệp", 
+                        "Thumbnail" : "", 
+                        "Description" : "", 
+                        "IsActive" : true, 
+                        "IsPrimary" : false, 
+                        "CreatedBy" : null, 
+                        "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                        "ModifiedBy" : null, 
+                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "IsDeleted" : false, 
+                        "ParentId" : "5f97c69a5116de029c938fba", 
+                        "Parent" : {
+                            "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "CreatedUser" : null, 
+                            "Name" : "Hành trang nghề nghiệp", 
+                            "Thumbnail" : "", 
+                            "Description" : "", 
+                            "IsActive" : true, 
+                            "IsPrimary" : false, 
+                            "CreatedBy" : null, 
+                            "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                            "ModifiedBy" : null, 
+                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "IsDeleted" : false, 
+                            "ParentId" : null, 
+                            "Parent" : null, 
+                            "Children" : [
+
+                            ]
+                        }, 
+                        "Children" : [
+
+                        ]
+                    }, 
+                    {
+                        "_id" : ObjectId("5f97c72bc4c66d20e84d01c5"), 
+                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "CreatedUser" : null, 
+                        "Name" : "Kỹ năng văn phòng", 
+                        "Thumbnail" : "", 
+                        "Description" : "", 
+                        "IsActive" : true, 
+                        "IsPrimary" : false, 
+                        "CreatedBy" : null, 
+                        "Created" : ISODate("2020-10-27T07:07:23.214+0000"), 
+                        "ModifiedBy" : null, 
+                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "IsDeleted" : false, 
+                        "ParentId" : "5f97c69a5116de029c938fba", 
+                        "Parent" : {
+                            "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "CreatedUser" : null, 
+                            "Name" : "Hành trang nghề nghiệp", 
+                            "Thumbnail" : "", 
+                            "Description" : "", 
+                            "IsActive" : true, 
+                            "IsPrimary" : false, 
+                            "CreatedBy" : null, 
+                            "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                            "ModifiedBy" : null, 
+                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "IsDeleted" : false, 
+                            "ParentId" : null, 
+                            "Parent" : null, 
+                            "Children" : [
+                                {
+                                    "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                    "CreatedUser" : null, 
+                                    "Name" : "Cơ hội nghề nghiệp", 
+                                    "Thumbnail" : "", 
+                                    "Description" : "", 
+                                    "IsActive" : true, 
+                                    "IsPrimary" : false, 
+                                    "CreatedBy" : null, 
+                                    "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                                    "ModifiedBy" : null, 
+                                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                    "IsDeleted" : false, 
+                                    "ParentId" : "5f97c69a5116de029c938fba", 
+                                    "Parent" : {
+                                        "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                        "CreatedUser" : null, 
+                                        "Name" : "Hành trang nghề nghiệp", 
+                                        "Thumbnail" : "", 
+                                        "Description" : "", 
+                                        "IsActive" : true, 
+                                        "IsPrimary" : false, 
+                                        "CreatedBy" : null, 
+                                        "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                                        "ModifiedBy" : null, 
+                                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                        "IsDeleted" : false, 
+                                        "ParentId" : null, 
+                                        "Parent" : null, 
+                                        "Children" : [
+
+                                        ]
+                                    }, 
+                                    "Children" : [
+
+                                    ]
+                                }
+                            ]
+                        }, 
+                        "Children" : [
+
+                        ]
+                    }
+                ]
+            }, 
+            "Children" : [
+
+            ]
+        }, 
+        {
+            "_id" : ObjectId("5f97d3f6a5959720d44a4c15"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Test danh mucj", 
+            "Thumbnail" : "", 
+            "Description" : "tesstggg", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-10-27T08:01:58.877+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "5f97c69a5116de029c938fba", 
+            "Parent" : {
+                "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Hành trang nghề nghiệp", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : null, 
+                "Parent" : null, 
+                "Children" : [
+                    {
+                        "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "CreatedUser" : null, 
+                        "Name" : "Cơ hội nghề nghiệp", 
+                        "Thumbnail" : "", 
+                        "Description" : "", 
+                        "IsActive" : true, 
+                        "IsPrimary" : false, 
+                        "CreatedBy" : null, 
+                        "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                        "ModifiedBy" : null, 
+                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "IsDeleted" : false, 
+                        "ParentId" : "5f97c69a5116de029c938fba", 
+                        "Parent" : {
+                            "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "CreatedUser" : null, 
+                            "Name" : "Hành trang nghề nghiệp", 
+                            "Thumbnail" : "", 
+                            "Description" : "", 
+                            "IsActive" : true, 
+                            "IsPrimary" : false, 
+                            "CreatedBy" : null, 
+                            "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                            "ModifiedBy" : null, 
+                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "IsDeleted" : false, 
+                            "ParentId" : null, 
+                            "Parent" : null, 
+                            "Children" : [
+
+                            ]
+                        }, 
+                        "Children" : [
+
+                        ]
+                    }, 
+                    {
+                        "_id" : ObjectId("5f97c72bc4c66d20e84d01c5"), 
+                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "CreatedUser" : null, 
+                        "Name" : "Kỹ năng văn phòng", 
+                        "Thumbnail" : "", 
+                        "Description" : "", 
+                        "IsActive" : true, 
+                        "IsPrimary" : false, 
+                        "CreatedBy" : null, 
+                        "Created" : ISODate("2020-10-27T07:07:23.214+0000"), 
+                        "ModifiedBy" : null, 
+                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "IsDeleted" : false, 
+                        "ParentId" : "5f97c69a5116de029c938fba", 
+                        "Parent" : {
+                            "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "CreatedUser" : null, 
+                            "Name" : "Hành trang nghề nghiệp", 
+                            "Thumbnail" : "", 
+                            "Description" : "", 
+                            "IsActive" : true, 
+                            "IsPrimary" : false, 
+                            "CreatedBy" : null, 
+                            "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                            "ModifiedBy" : null, 
+                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "IsDeleted" : false, 
+                            "ParentId" : null, 
+                            "Parent" : null, 
+                            "Children" : [
+                                {
+                                    "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                    "CreatedUser" : null, 
+                                    "Name" : "Cơ hội nghề nghiệp", 
+                                    "Thumbnail" : "", 
+                                    "Description" : "", 
+                                    "IsActive" : true, 
+                                    "IsPrimary" : false, 
+                                    "CreatedBy" : null, 
+                                    "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                                    "ModifiedBy" : null, 
+                                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                    "IsDeleted" : false, 
+                                    "ParentId" : "5f97c69a5116de029c938fba", 
+                                    "Parent" : {
+                                        "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                        "CreatedUser" : null, 
+                                        "Name" : "Hành trang nghề nghiệp", 
+                                        "Thumbnail" : "", 
+                                        "Description" : "", 
+                                        "IsActive" : true, 
+                                        "IsPrimary" : false, 
+                                        "CreatedBy" : null, 
+                                        "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                                        "ModifiedBy" : null, 
+                                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                        "IsDeleted" : false, 
+                                        "ParentId" : null, 
+                                        "Parent" : null, 
+                                        "Children" : [
+
+                                        ]
+                                    }, 
+                                    "Children" : [
+
+                                    ]
+                                }
+                            ]
+                        }, 
+                        "Children" : [
+
+                        ]
+                    }, 
+                    {
+                        "_id" : ObjectId("5f97c741c4c66d20e84d01de"), 
+                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "CreatedUser" : null, 
+                        "Name" : "Phát triển bản thân", 
+                        "Thumbnail" : "", 
+                        "Description" : "", 
+                        "IsActive" : true, 
+                        "IsPrimary" : false, 
+                        "CreatedBy" : null, 
+                        "Created" : ISODate("2020-10-27T07:07:45.264+0000"), 
+                        "ModifiedBy" : null, 
+                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                        "IsDeleted" : false, 
+                        "ParentId" : "5f97c69a5116de029c938fba", 
+                        "Parent" : {
+                            "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "CreatedUser" : null, 
+                            "Name" : "Hành trang nghề nghiệp", 
+                            "Thumbnail" : "", 
+                            "Description" : "", 
+                            "IsActive" : true, 
+                            "IsPrimary" : false, 
+                            "CreatedBy" : null, 
+                            "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                            "ModifiedBy" : null, 
+                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "IsDeleted" : false, 
+                            "ParentId" : null, 
+                            "Parent" : null, 
+                            "Children" : [
+                                {
+                                    "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                    "CreatedUser" : null, 
+                                    "Name" : "Cơ hội nghề nghiệp", 
+                                    "Thumbnail" : "", 
+                                    "Description" : "", 
+                                    "IsActive" : true, 
+                                    "IsPrimary" : false, 
+                                    "CreatedBy" : null, 
+                                    "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                                    "ModifiedBy" : null, 
+                                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                    "IsDeleted" : false, 
+                                    "ParentId" : "5f97c69a5116de029c938fba", 
+                                    "Parent" : {
+                                        "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                        "CreatedUser" : null, 
+                                        "Name" : "Hành trang nghề nghiệp", 
+                                        "Thumbnail" : "", 
+                                        "Description" : "", 
+                                        "IsActive" : true, 
+                                        "IsPrimary" : false, 
+                                        "CreatedBy" : null, 
+                                        "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                                        "ModifiedBy" : null, 
+                                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                        "IsDeleted" : false, 
+                                        "ParentId" : null, 
+                                        "Parent" : null, 
+                                        "Children" : [
+
+                                        ]
+                                    }, 
+                                    "Children" : [
+
+                                    ]
+                                }, 
+                                {
+                                    "_id" : ObjectId("5f97c72bc4c66d20e84d01c5"), 
+                                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                    "CreatedUser" : null, 
+                                    "Name" : "Kỹ năng văn phòng", 
+                                    "Thumbnail" : "", 
+                                    "Description" : "", 
+                                    "IsActive" : true, 
+                                    "IsPrimary" : false, 
+                                    "CreatedBy" : null, 
+                                    "Created" : ISODate("2020-10-27T07:07:23.214+0000"), 
+                                    "ModifiedBy" : null, 
+                                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                    "IsDeleted" : false, 
+                                    "ParentId" : "5f97c69a5116de029c938fba", 
+                                    "Parent" : {
+                                        "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                        "CreatedUser" : null, 
+                                        "Name" : "Hành trang nghề nghiệp", 
+                                        "Thumbnail" : "", 
+                                        "Description" : "", 
+                                        "IsActive" : true, 
+                                        "IsPrimary" : false, 
+                                        "CreatedBy" : null, 
+                                        "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                                        "ModifiedBy" : null, 
+                                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                        "IsDeleted" : false, 
+                                        "ParentId" : null, 
+                                        "Parent" : null, 
+                                        "Children" : [
+                                            {
+                                                "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                                                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                                "CreatedUser" : null, 
+                                                "Name" : "Cơ hội nghề nghiệp", 
+                                                "Thumbnail" : "", 
+                                                "Description" : "", 
+                                                "IsActive" : true, 
+                                                "IsPrimary" : false, 
+                                                "CreatedBy" : null, 
+                                                "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                                                "ModifiedBy" : null, 
+                                                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                                "IsDeleted" : false, 
+                                                "ParentId" : "5f97c69a5116de029c938fba", 
+                                                "Parent" : {
+                                                    "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                                                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                                    "CreatedUser" : null, 
+                                                    "Name" : "Hành trang nghề nghiệp", 
+                                                    "Thumbnail" : "", 
+                                                    "Description" : "", 
+                                                    "IsActive" : true, 
+                                                    "IsPrimary" : false, 
+                                                    "CreatedBy" : null, 
+                                                    "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                                                    "ModifiedBy" : null, 
+                                                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                                    "IsDeleted" : false, 
+                                                    "ParentId" : null, 
+                                                    "Parent" : null, 
+                                                    "Children" : [
+
+                                                    ]
+                                                }, 
+                                                "Children" : [
+
+                                                ]
+                                            }
+                                        ]
+                                    }, 
+                                    "Children" : [
+
+                                    ]
+                                }
+                            ]
+                        }, 
+                        "Children" : [
+
+                        ]
+                    }
+                ]
+            }, 
+            "Children" : [
+
+            ]
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Cơ hội nghề nghiệp", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : "5f97c69a5116de029c938fba", 
+    "Parent" : {
+        "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "CreatedUser" : null, 
+        "Name" : "Hành trang nghề nghiệp", 
+        "Thumbnail" : "", 
+        "Description" : "", 
+        "IsActive" : true, 
+        "IsPrimary" : false, 
+        "CreatedBy" : null, 
+        "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+        "ModifiedBy" : null, 
+        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "IsDeleted" : false, 
+        "ParentId" : null, 
+        "Parent" : null, 
+        "Children" : [
+
+        ]
+    }, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5f97c72bc4c66d20e84d01c5"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Kỹ năng văn phòng", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-27T07:07:23.214+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : "5f97c69a5116de029c938fba", 
+    "Parent" : {
+        "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "CreatedUser" : null, 
+        "Name" : "Hành trang nghề nghiệp", 
+        "Thumbnail" : "", 
+        "Description" : "", 
+        "IsActive" : true, 
+        "IsPrimary" : false, 
+        "CreatedBy" : null, 
+        "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+        "ModifiedBy" : null, 
+        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "IsDeleted" : false, 
+        "ParentId" : null, 
+        "Parent" : null, 
+        "Children" : [
+            {
+                "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Cơ hội nghề nghiệp", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : "5f97c69a5116de029c938fba", 
+                "Parent" : {
+                    "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "CreatedUser" : null, 
+                    "Name" : "Hành trang nghề nghiệp", 
+                    "Thumbnail" : "", 
+                    "Description" : "", 
+                    "IsActive" : true, 
+                    "IsPrimary" : false, 
+                    "CreatedBy" : null, 
+                    "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                    "ModifiedBy" : null, 
+                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "IsDeleted" : false, 
+                    "ParentId" : null, 
+                    "Parent" : null, 
+                    "Children" : [
+
+                    ]
+                }, 
+                "Children" : [
+
+                ]
+            }
+        ]
+    }, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5f97c741c4c66d20e84d01de"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Phát triển bản thân", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-27T07:07:45.264+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : "5f97c69a5116de029c938fba", 
+    "Parent" : {
+        "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "CreatedUser" : null, 
+        "Name" : "Hành trang nghề nghiệp", 
+        "Thumbnail" : "", 
+        "Description" : "", 
+        "IsActive" : true, 
+        "IsPrimary" : false, 
+        "CreatedBy" : null, 
+        "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+        "ModifiedBy" : null, 
+        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "IsDeleted" : false, 
+        "ParentId" : null, 
+        "Parent" : null, 
+        "Children" : [
+            {
+                "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Cơ hội nghề nghiệp", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : "5f97c69a5116de029c938fba", 
+                "Parent" : {
+                    "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "CreatedUser" : null, 
+                    "Name" : "Hành trang nghề nghiệp", 
+                    "Thumbnail" : "", 
+                    "Description" : "", 
+                    "IsActive" : true, 
+                    "IsPrimary" : false, 
+                    "CreatedBy" : null, 
+                    "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                    "ModifiedBy" : null, 
+                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "IsDeleted" : false, 
+                    "ParentId" : null, 
+                    "Parent" : null, 
+                    "Children" : [
+
+                    ]
+                }, 
+                "Children" : [
+
+                ]
+            }, 
+            {
+                "_id" : ObjectId("5f97c72bc4c66d20e84d01c5"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Kỹ năng văn phòng", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:07:23.214+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : "5f97c69a5116de029c938fba", 
+                "Parent" : {
+                    "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "CreatedUser" : null, 
+                    "Name" : "Hành trang nghề nghiệp", 
+                    "Thumbnail" : "", 
+                    "Description" : "", 
+                    "IsActive" : true, 
+                    "IsPrimary" : false, 
+                    "CreatedBy" : null, 
+                    "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                    "ModifiedBy" : null, 
+                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "IsDeleted" : false, 
+                    "ParentId" : null, 
+                    "Parent" : null, 
+                    "Children" : [
+                        {
+                            "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "CreatedUser" : null, 
+                            "Name" : "Cơ hội nghề nghiệp", 
+                            "Thumbnail" : "", 
+                            "Description" : "", 
+                            "IsActive" : true, 
+                            "IsPrimary" : false, 
+                            "CreatedBy" : null, 
+                            "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                            "ModifiedBy" : null, 
+                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "IsDeleted" : false, 
+                            "ParentId" : "5f97c69a5116de029c938fba", 
+                            "Parent" : {
+                                "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                "CreatedUser" : null, 
+                                "Name" : "Hành trang nghề nghiệp", 
+                                "Thumbnail" : "", 
+                                "Description" : "", 
+                                "IsActive" : true, 
+                                "IsPrimary" : false, 
+                                "CreatedBy" : null, 
+                                "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                                "ModifiedBy" : null, 
+                                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                "IsDeleted" : false, 
+                                "ParentId" : null, 
+                                "Parent" : null, 
+                                "Children" : [
+
+                                ]
+                            }, 
+                            "Children" : [
+
+                            ]
+                        }
+                    ]
+                }, 
+                "Children" : [
+
+                ]
+            }
+        ]
+    }, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5f97c775c4c66d20e84d0213"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Hội thảo", 
+    "Thumbnail" : "http://localhost:49412/Images/Recruitment/deotin_20201030105235.jpg", 
+    "Description" : "", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-27T07:08:37.939+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : null, 
+    "Parent" : null, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5f97d3f6a5959720d44a4c15"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Test danh mucj", 
+    "Thumbnail" : "", 
+    "Description" : "tesstggg", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-27T08:01:58.877+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : "5f97c69a5116de029c938fba", 
+    "Parent" : {
+        "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "CreatedUser" : null, 
+        "Name" : "Hành trang nghề nghiệp", 
+        "Thumbnail" : "", 
+        "Description" : "", 
+        "IsActive" : true, 
+        "IsPrimary" : false, 
+        "CreatedBy" : null, 
+        "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+        "ModifiedBy" : null, 
+        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "IsDeleted" : false, 
+        "ParentId" : null, 
+        "Parent" : null, 
+        "Children" : [
+            {
+                "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Cơ hội nghề nghiệp", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : "5f97c69a5116de029c938fba", 
+                "Parent" : {
+                    "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "CreatedUser" : null, 
+                    "Name" : "Hành trang nghề nghiệp", 
+                    "Thumbnail" : "", 
+                    "Description" : "", 
+                    "IsActive" : true, 
+                    "IsPrimary" : false, 
+                    "CreatedBy" : null, 
+                    "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                    "ModifiedBy" : null, 
+                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "IsDeleted" : false, 
+                    "ParentId" : null, 
+                    "Parent" : null, 
+                    "Children" : [
+
+                    ]
+                }, 
+                "Children" : [
+
+                ]
+            }, 
+            {
+                "_id" : ObjectId("5f97c72bc4c66d20e84d01c5"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Kỹ năng văn phòng", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:07:23.214+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : "5f97c69a5116de029c938fba", 
+                "Parent" : {
+                    "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "CreatedUser" : null, 
+                    "Name" : "Hành trang nghề nghiệp", 
+                    "Thumbnail" : "", 
+                    "Description" : "", 
+                    "IsActive" : true, 
+                    "IsPrimary" : false, 
+                    "CreatedBy" : null, 
+                    "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                    "ModifiedBy" : null, 
+                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "IsDeleted" : false, 
+                    "ParentId" : null, 
+                    "Parent" : null, 
+                    "Children" : [
+                        {
+                            "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "CreatedUser" : null, 
+                            "Name" : "Cơ hội nghề nghiệp", 
+                            "Thumbnail" : "", 
+                            "Description" : "", 
+                            "IsActive" : true, 
+                            "IsPrimary" : false, 
+                            "CreatedBy" : null, 
+                            "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                            "ModifiedBy" : null, 
+                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "IsDeleted" : false, 
+                            "ParentId" : "5f97c69a5116de029c938fba", 
+                            "Parent" : {
+                                "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                "CreatedUser" : null, 
+                                "Name" : "Hành trang nghề nghiệp", 
+                                "Thumbnail" : "", 
+                                "Description" : "", 
+                                "IsActive" : true, 
+                                "IsPrimary" : false, 
+                                "CreatedBy" : null, 
+                                "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                                "ModifiedBy" : null, 
+                                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                "IsDeleted" : false, 
+                                "ParentId" : null, 
+                                "Parent" : null, 
+                                "Children" : [
+
+                                ]
+                            }, 
+                            "Children" : [
+
+                            ]
+                        }
+                    ]
+                }, 
+                "Children" : [
+
+                ]
+            }, 
+            {
+                "_id" : ObjectId("5f97c741c4c66d20e84d01de"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "Phát triển bản thân", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T07:07:45.264+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : "5f97c69a5116de029c938fba", 
+                "Parent" : {
+                    "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "CreatedUser" : null, 
+                    "Name" : "Hành trang nghề nghiệp", 
+                    "Thumbnail" : "", 
+                    "Description" : "", 
+                    "IsActive" : true, 
+                    "IsPrimary" : false, 
+                    "CreatedBy" : null, 
+                    "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                    "ModifiedBy" : null, 
+                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "IsDeleted" : false, 
+                    "ParentId" : null, 
+                    "Parent" : null, 
+                    "Children" : [
+                        {
+                            "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "CreatedUser" : null, 
+                            "Name" : "Cơ hội nghề nghiệp", 
+                            "Thumbnail" : "", 
+                            "Description" : "", 
+                            "IsActive" : true, 
+                            "IsPrimary" : false, 
+                            "CreatedBy" : null, 
+                            "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                            "ModifiedBy" : null, 
+                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "IsDeleted" : false, 
+                            "ParentId" : "5f97c69a5116de029c938fba", 
+                            "Parent" : {
+                                "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                "CreatedUser" : null, 
+                                "Name" : "Hành trang nghề nghiệp", 
+                                "Thumbnail" : "", 
+                                "Description" : "", 
+                                "IsActive" : true, 
+                                "IsPrimary" : false, 
+                                "CreatedBy" : null, 
+                                "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                                "ModifiedBy" : null, 
+                                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                "IsDeleted" : false, 
+                                "ParentId" : null, 
+                                "Parent" : null, 
+                                "Children" : [
+
+                                ]
+                            }, 
+                            "Children" : [
+
+                            ]
+                        }, 
+                        {
+                            "_id" : ObjectId("5f97c72bc4c66d20e84d01c5"), 
+                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "CreatedUser" : null, 
+                            "Name" : "Kỹ năng văn phòng", 
+                            "Thumbnail" : "", 
+                            "Description" : "", 
+                            "IsActive" : true, 
+                            "IsPrimary" : false, 
+                            "CreatedBy" : null, 
+                            "Created" : ISODate("2020-10-27T07:07:23.214+0000"), 
+                            "ModifiedBy" : null, 
+                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                            "IsDeleted" : false, 
+                            "ParentId" : "5f97c69a5116de029c938fba", 
+                            "Parent" : {
+                                "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                "CreatedUser" : null, 
+                                "Name" : "Hành trang nghề nghiệp", 
+                                "Thumbnail" : "", 
+                                "Description" : "", 
+                                "IsActive" : true, 
+                                "IsPrimary" : false, 
+                                "CreatedBy" : null, 
+                                "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                                "ModifiedBy" : null, 
+                                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                "IsDeleted" : false, 
+                                "ParentId" : null, 
+                                "Parent" : null, 
+                                "Children" : [
+                                    {
+                                        "_id" : ObjectId("5f97c717c4c66d20e84d01bf"), 
+                                        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                        "CreatedUser" : null, 
+                                        "Name" : "Cơ hội nghề nghiệp", 
+                                        "Thumbnail" : "", 
+                                        "Description" : "", 
+                                        "IsActive" : true, 
+                                        "IsPrimary" : false, 
+                                        "CreatedBy" : null, 
+                                        "Created" : ISODate("2020-10-27T07:07:03.775+0000"), 
+                                        "ModifiedBy" : null, 
+                                        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                        "IsDeleted" : false, 
+                                        "ParentId" : "5f97c69a5116de029c938fba", 
+                                        "Parent" : {
+                                            "_id" : ObjectId("5f97c69a5116de029c938fba"), 
+                                            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                            "CreatedUser" : null, 
+                                            "Name" : "Hành trang nghề nghiệp", 
+                                            "Thumbnail" : "", 
+                                            "Description" : "", 
+                                            "IsActive" : true, 
+                                            "IsPrimary" : false, 
+                                            "CreatedBy" : null, 
+                                            "Created" : ISODate("2020-10-27T07:04:58.215+0000"), 
+                                            "ModifiedBy" : null, 
+                                            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                                            "IsDeleted" : false, 
+                                            "ParentId" : null, 
+                                            "Parent" : null, 
+                                            "Children" : [
+
+                                            ]
+                                        }, 
+                                        "Children" : [
+
+                                        ]
+                                    }
+                                ]
+                            }, 
+                            "Children" : [
+
+                            ]
+                        }
+                    ]
+                }, 
+                "Children" : [
+
+                ]
+            }
+        ]
+    }, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5f97d969bbf2221dc82da8ce"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Test xóa", 
+    "Thumbnail" : "", 
+    "Description" : "test xá", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-27T08:25:13.632+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : "5f97c775c4c66d20e84d0213", 
+    "Parent" : {
+        "_id" : ObjectId("5f97c775c4c66d20e84d0213"), 
+        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "CreatedUser" : null, 
+        "Name" : "Hội thảo", 
+        "Thumbnail" : "", 
+        "Description" : "", 
+        "IsActive" : true, 
+        "IsPrimary" : false, 
+        "CreatedBy" : null, 
+        "Created" : ISODate("2020-10-27T07:08:37.939+0000"), 
+        "ModifiedBy" : null, 
+        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "IsDeleted" : false, 
+        "ParentId" : null, 
+        "Parent" : null, 
+        "Children" : [
+
+        ]
+    }, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5f97dd88920f2f4624d70aa7"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "gggggg", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-27T08:42:48.850+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : "", 
+    "Parent" : null, 
+    "Children" : [
+        {
+            "_id" : ObjectId("5fa4afbe5ea6bd34c8dae807"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "sdad", 
+            "Thumbnail" : "", 
+            "Description" : "", 
+            "IsActive" : true, 
+            "IsPrimary" : false, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-11-06T02:06:53.940+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false, 
+            "ParentId" : "5f97dd88920f2f4624d70aa7", 
+            "Parent" : {
+                "_id" : ObjectId("5f97dd88920f2f4624d70aa7"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "gggggg", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-10-27T08:42:48.850+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : "", 
+                "Parent" : null, 
+                "Children" : [
+
+                ]
+            }, 
+            "Children" : [
+
+            ]
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5f9a2fc18127392140dd42c5"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "fdsfs", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-29T02:58:09.917+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true, 
+    "ParentId" : null, 
+    "Parent" : null, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5fa4afbe5ea6bd34c8dae807"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "sdad", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-11-06T02:06:53.940+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "ParentId" : "5f97dd88920f2f4624d70aa7", 
+    "Parent" : {
+        "_id" : ObjectId("5f97dd88920f2f4624d70aa7"), 
+        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "CreatedUser" : null, 
+        "Name" : "gggggg", 
+        "Thumbnail" : "", 
+        "Description" : "", 
+        "IsActive" : true, 
+        "IsPrimary" : false, 
+        "CreatedBy" : null, 
+        "Created" : ISODate("2020-10-27T08:42:48.850+0000"), 
+        "ModifiedBy" : null, 
+        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "IsDeleted" : false, 
+        "ParentId" : "", 
+        "Parent" : null, 
+        "Children" : [
+
+        ]
+    }, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5fa8bf18a9d99c2560c1e1eb"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "gggggg", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-11-09T04:01:28.550+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true, 
+    "ParentId" : null, 
+    "Parent" : null, 
+    "Children" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("5fa905724102413bccf74320"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "a", 
+    "Thumbnail" : "", 
+    "Description" : "", 
+    "IsActive" : true, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-11-09T09:01:38.764+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true, 
+    "ParentId" : "5f97dd88920f2f4624d70aa7", 
+    "Parent" : {
+        "_id" : ObjectId("5f97dd88920f2f4624d70aa7"), 
+        "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "CreatedUser" : null, 
+        "Name" : "gggggg", 
+        "Thumbnail" : "", 
+        "Description" : "", 
+        "IsActive" : true, 
+        "IsPrimary" : false, 
+        "CreatedBy" : null, 
+        "Created" : ISODate("2020-10-27T08:42:48.850+0000"), 
+        "ModifiedBy" : null, 
+        "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+        "IsDeleted" : false, 
+        "ParentId" : "", 
+        "Parent" : null, 
+        "Children" : [
+            {
+                "_id" : ObjectId("5fa4afbe5ea6bd34c8dae807"), 
+                "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "CreatedUser" : null, 
+                "Name" : "sdad", 
+                "Thumbnail" : "", 
+                "Description" : "", 
+                "IsActive" : true, 
+                "IsPrimary" : false, 
+                "CreatedBy" : null, 
+                "Created" : ISODate("2020-11-06T02:06:53.940+0000"), 
+                "ModifiedBy" : null, 
+                "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                "IsDeleted" : false, 
+                "ParentId" : "5f97dd88920f2f4624d70aa7", 
+                "Parent" : {
+                    "_id" : ObjectId("5f97dd88920f2f4624d70aa7"), 
+                    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "CreatedUser" : null, 
+                    "Name" : "gggggg", 
+                    "Thumbnail" : "", 
+                    "Description" : "", 
+                    "IsActive" : true, 
+                    "IsPrimary" : false, 
+                    "CreatedBy" : null, 
+                    "Created" : ISODate("2020-10-27T08:42:48.850+0000"), 
+                    "ModifiedBy" : null, 
+                    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+                    "IsDeleted" : false, 
+                    "ParentId" : "", 
+                    "Parent" : null, 
+                    "Children" : [
+
+                    ]
+                }, 
+                "Children" : [
+
+                ]
+            }
+        ]
+    }, 
+    "Children" : [
+
+    ]
+}

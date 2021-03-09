@@ -1,0 +1,22 @@
+{ 
+    "_id" : ObjectId("5ff7e5424ce8142b58654720"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "UserId" : "5ff7e53f4ce8142b5865471d", 
+    "Code" : "984632", 
+    "ExpiredAt" : ISODate("2021-01-08T04:54:22.043+0000"), 
+    "Type" : NumberInt(1), 
+    "Created" : ISODate("2021-01-08T04:53:22.043+0000"), 
+    "UserField" : "cuong@oriwave.com"
+}
+{ 
+    "_id" : ObjectId("5ff7e5a04328803e204936d7"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "UserId" : "5ff7e5964328803e204936d4", 
+    "Code" : "469595", 
+    "ExpiredAt" : ISODate("2021-01-08T04:55:56.529+0000"), 
+    "Type" : NumberInt(1), 
+    "Created" : ISODate("2021-01-08T04:54:56.529+0000"), 
+    "UserField" : "cuong@oriwave.com"
+}

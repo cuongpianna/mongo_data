@@ -1,0 +1,105 @@
+{ 
+    "_id" : ObjectId("5f910e5dff87a04c086c1b46"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Đăng tin tuyển dụng", 
+    "ServiceCount" : NumberInt(3), 
+    "ParentId" : null, 
+    "IsActive" : false, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-22T04:45:17.101+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5f910f707ef7072c8cfd3407"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Đăng tin cơ bản", 
+    "ServiceCount" : NumberInt(1), 
+    "ParentId" : null, 
+    "IsActive" : false, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-22T04:49:52.686+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5f910f997ef7072c8cfd3409"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "Đăng tin trang chủ", 
+    "ServiceCount" : NumberInt(2), 
+    "ParentId" : null, 
+    "IsActive" : false, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-22T04:50:33.062+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false
+}
+{ 
+    "_id" : ObjectId("5f9134677ef7072c8cfd34bb"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "eee", 
+    "ServiceCount" : NumberInt(0), 
+    "ParentId" : null, 
+    "IsActive" : false, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-22T07:27:35.977+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true
+}
+{ 
+    "_id" : ObjectId("5f913a1ef02553459cb334be"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "gag", 
+    "ServiceCount" : NumberInt(0), 
+    "ParentId" : null, 
+    "IsActive" : false, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-22T07:51:58.574+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true
+}
+{ 
+    "_id" : ObjectId("5f913d17f02553459cb334d0"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "test", 
+    "ServiceCount" : NumberInt(0), 
+    "ParentId" : null, 
+    "IsActive" : false, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-22T08:04:39.283+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true
+}
+{ 
+    "_id" : ObjectId("5f96301848a10a1ea8dcb66d"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "Name" : "sdas", 
+    "ServiceCount" : NumberInt(0), 
+    "ParentId" : null, 
+    "IsActive" : false, 
+    "IsPrimary" : false, 
+    "CreatedBy" : null, 
+    "Created" : ISODate("2020-10-26T02:10:31.992+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : true
+}

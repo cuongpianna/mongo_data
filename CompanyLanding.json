@@ -1,0 +1,43 @@
+{ 
+    "_id" : ObjectId("5ff6dc6adb8b645300b3245e"), 
+    "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "CreatedUser" : null, 
+    "CompanyId" : "5ff2e2694902b11c688c1aa3", 
+    "Slug" : "202101071745458594-cong-ty-co-phan-bellsystem-24-hoa-sao.html", 
+    "Name" : "Công ty cổ phần BellSystem 24-Hoa Sao", 
+    "Address" : "Số 160 Lê Trọng Tấn Quận Thanh Xuân Hà Nội", 
+    "Logo" : "20210108044444.jpg", 
+    "IntroImage" : null, 
+    "About" : "Trong gần 10 năm qua, Hoa Sao tự hào mang đến cho hàng nghìn nhân sự môi trường làm việc chuyên nghiệp, sáng tạo, giàu tính nhân văn với nhiều hoạt động văn hóa, chính sách phát triển con người và các cơ hội thăng tiến luôn được đầu tư, chú trọng.\n\nTrở thành thành viên của Hoa Sao đồng nghĩa với việc bạn đã được gia nhập vào đội ngũ nhân sự được đào tạo bài bản, uy tín, có cơ hội đại diện, làm việc cùng các thương hiệu danh tiếng và uy tín trong lĩnh vực viễn thông, truyền hình,...", 
+    "Website" : "https://hoasao.vn/", 
+    "JobCategorys" : [
+        {
+            "_id" : ObjectId("5fa60fe224e67f65c80390d8"), 
+            "CreatedDateTime" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "CreatedUser" : null, 
+            "Name" : "Công nghệ thông tin", 
+            "JobCount" : NumberInt(0), 
+            "Icon" : "32px_settings 1_20201118104433.png", 
+            "Description" : "Công nghệ thông tin", 
+            "Color" : "#F99B17", 
+            "IsActive" : true, 
+            "CreatedBy" : null, 
+            "Created" : ISODate("2020-11-07T03:09:22.242+0000"), 
+            "ModifiedBy" : null, 
+            "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+            "IsDeleted" : false
+        }
+    ], 
+    "GalleryImage" : [
+        "20210107114612.jpg", 
+        "20210107115509.jpg", 
+        "20210107113547.jpg", 
+        "20210107113221.jpg"
+    ], 
+    "CreatedBy" : null, 
+    "Created" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "ModifiedBy" : null, 
+    "Modified" : ISODate("0001-01-01T00:00:00.000+0000"), 
+    "IsDeleted" : false, 
+    "IsActive" : false
+}
